@@ -2,6 +2,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//import static org.junit.jupiter.api.Assertions.*;
+
 /**
  *  * Introduction to Computer Science 2026, Ariel University,
  *  * Ex1: arrays, static functions and JUnit
